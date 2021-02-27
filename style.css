@@ -1,0 +1,21 @@
+body{
+    background-image: url("back-check2.gif");
+    background-size: cover;
+    color:#80b2cb;
+}
+.container{
+    margin-left: -300px;
+}
+#ir{
+    width:40%;
+    font-size: 22px ;
+    background-color: lightslategrey;
+}
+#camera{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px
+}
+#result_object_name , #result_object_accuracy{
+    background-color: chocolate;
+}
